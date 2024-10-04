@@ -7,7 +7,7 @@ The associated code is in the project folder:
 * AE.py – This file contains the autodidactic enhanacement (AE) code.
 * trace.py – This file contains the error traceback code.
 
-<i>Note: We do not include the data here. These files are provided for transparency. They will, however, work just fine on other data if you have your own or get data from Kaggle or something.</i>
+<i>Note: While data is not included here, this code will work on other data.</i>
 
 
-*The code here is made publicly available here and provided without any license. However, we ask that you reference us if you use this code.
+*The code presented here is made publicly available and provided without any formal license. However, we kindly ask that you reference us if you decide to use this code.
