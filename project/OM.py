@@ -2,7 +2,7 @@
 """
 Created on Mon Mar  6 13:27:24 2023
 
-@author: Pesto
+@author: Michael H. Udin
 """
 
 #%% Timer
