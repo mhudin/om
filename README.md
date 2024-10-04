@@ -3,7 +3,7 @@
 The associated code is in the project folder:
 
 * OM.py – This file contains the One Match (OM) and patient-level classifications (PLCs) code.
-* CNN.py – This file contains the code for the sequential CNN.
+* sCNN.py – This file contains the code for the sequential CNN.
 * AE.py – This file contains the autodidactic enhanacement (AE) code.
 * trace.py – This file contains the error traceback code.
 
