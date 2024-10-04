@@ -9,5 +9,8 @@ The associated code is in the project folder:
 
 <i>Note: While we do not include any data here, this code will work on almost any preprocessed imaging data with specific visual targets.</i>
 
-
+<br><br>
 *The code presented here is made publicly available and provided without any formal license. However, we kindly ask that you reference us if you decide to use this code.
+
+Reference:    
+(in progress)
