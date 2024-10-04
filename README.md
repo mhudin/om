@@ -9,4 +9,5 @@ The associated code is in the project folder:
 
 <i>Note: We do not include the data here. These files are provided for transparency. They will, however, work just fine on other data if you have your own or get data from Kaggle or something.</i>
 
-The code here is publicly available. I only ask that you reference where you got the code from if you use it for your work.
+
+*The code here is made publicly available here and provided without any license. However, we ask that you reference us if you use this code.
