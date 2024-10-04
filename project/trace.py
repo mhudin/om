@@ -20,8 +20,8 @@ from sklearn.metrics import roc_auc_score
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 #%% Path Info
-qq = glob.glob('C:/LocationOfNegativeCases/*.png') #Make list of negative cases
-rr = glob.glob('C:/LocationOfPositiveCases/*.png') #Make list of positive cases
+qq = glob.glob('C:/LocationOfNegativeTemplateSet/*.png') #Make list of negative template set cases
+rr = glob.glob('C:/LocationOfPositiveTemplateSet/*.png') #Make list of positive template set cases
 bb = glob.glob('C:/LocationofTraceImage/*.png') #Image to trace
 
 #%% Create patient-level labels and counting number of files per patient
